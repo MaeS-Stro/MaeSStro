@@ -2,7 +2,7 @@
 
 ## Description
 
-Cette application mobile pour Android permet d'extraire des informations importantes sur un sujet en question. L'utilisateur peut entrer un mot-clé dans une barre de recherche, et l'application affiche des graphes interactifs avec les mots-clés les plus importants liés au sujet. En cliquant sur un graphe, l'utilisateur peut obtenir les informations essentielles sur le sujet, notamment les faits, les sujets d'actualité et les sentiments évoqués.
+Cette application mobile pour Android permet d'extraire des informations importantes sur un sujet en question. L'utilisateur peut entrer un mot-clé dans une barre de recherche, et l'application affiche des graphes interactifs avec les mots-clés les plus importants liés au sujet. En cliquant sur un graphe, l'utilisateur peut obtenir les informations essentielles sur le sujet, notamment les faits, les sujets d'actualité et les sentiments évoqués. Le besoin essentiel dans ce projet est de permettre aux utilisateurs d'atteindre facilement les sujets d'actualités et si le sujet n'est pas dans la connaissance de l'utilisateur, il doit pouvoir rapidement monter en compétences dessus et connaître les tendances sentimentales sémantiques. Ce projet est un premier jet à l'analyse sémantique en masse, est tend à une évolution sous une autre version.
 
 ## Spécifications Fonctionnelles
 
@@ -51,7 +51,7 @@ Cette application mobile pour Android permet d'extraire des informations importa
 ### Architecture de l'Application
 
 1. **Frontend (Application Mobile)**
-   - Android avec Java/Kotlin
+   - Android avec Java
    - Interface utilisateur pour la recherche, l'affichage des résultats et les détails
 
 2. **Backend**
