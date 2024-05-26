@@ -1,0 +1,44 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+# Build Folders
+build/
+app/build/
+
+# Gradle Files
+.gradle/
+**/gradle-wrapper.properties
+
+# IntelliJ/Android Studio Specific
+.idea/
+# Logs
+*.log
+
+# Android specific
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Firebase
+firebase/
+crashlytics.properties
+
+# Ignore Google Services JSON
+app/google-services.json
+
+# Miscellaneous
+**/.DS_Store
+**/Thumbs.db
